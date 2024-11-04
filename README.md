@@ -72,3 +72,4 @@ Ass: Herik 'paranoic' Rodrigues
 ## Considerações Finais
 
 - As credenciais são específicas para meu usuário, porém o codigo é reutilizável
+- Foi ignorado um arquivo .env com credenciais
